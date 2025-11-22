@@ -15,7 +15,7 @@ This repository contains a series of Jupyter Notebook exercises designed to buil
 
 ---
 
-## 🐍 Python Fundamentals & Control Flow (Day 1 & 2)
+## 🐍 Python Fundamentals & Control Flow 
 
 This section focuses on mastering the building blocks of Python programming, including user interaction and controlling program logic.
 
@@ -39,7 +39,7 @@ This section focuses on mastering the building blocks of Python programming, inc
 
 ---
 
-## 📊 Pandas Data Analysis Introduction (Day 1)
+## 📊 Pandas Data Analysis Introduction 
 
 This section covers the essential first steps in data analysis: loading and structuring external data using the powerful Pandas library.
 
